@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Привет Артем Братчук от Хальвиты Артема!");
+            global::System.Console.WriteLine("Commit from VS Git");
         }
     }
 }
